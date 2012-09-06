@@ -1,4 +1,4 @@
-blogtestapp
+blablablablblogtestapp
 cintro        Some basic examples in C
 dpir          Design Pattern in Ruby demo code (C) Russ Olsen
 koskela       Test Driven demo code (C) Lasse Koskela
